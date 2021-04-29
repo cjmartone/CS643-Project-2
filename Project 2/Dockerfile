@@ -1,0 +1,1 @@
+FROM project2/spark-java-template:3.1.1-hadoop3.2
